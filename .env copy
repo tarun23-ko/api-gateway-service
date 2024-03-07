@@ -1,0 +1,12 @@
+# ENABLE_APM=0
+# NODE_ENV=development
+# CLIENT_URL=http://localhost:3000
+# RABBITMQ_ENDPOINT=amqp://myuser:mypassword@localhost:5672
+# SENDER_EMAIL=yazmin.russel@ethereal.email
+# SENDER_EMAIL_PASSWORD=ygWFT2ccUXYG5r7by7
+# ELASTIC_SEARCH_URL=http://localhost:9200
+
+# ELASCTIC_APM_SERVER_URL=http://localhost:8200
+# ELASCTIC_APM_SECRET_TOKEN=
+
+
