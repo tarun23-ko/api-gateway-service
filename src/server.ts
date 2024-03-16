@@ -13,7 +13,7 @@ import { config } from '@gateway/config';
 import { elasticSearch } from '@gateway/elasticsearch';
 import { appRoutes } from '@gateway/routes';
 
-const SERVER_PORT = 4000
+const SERVER_PORT = 5000
 
 const log:Logger = winstonLogger(`${config.ELASTIC_SEARCH_URL}`,'apiGateway','debug')
 

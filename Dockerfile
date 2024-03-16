@@ -4,7 +4,6 @@ WORKDIR /app
 
 COPY package.json tsconfig.json .npmrc ./
 COPY src ./src
-COPY tools ./tools
 RUN npm install -g npm@latest
 RUN npm ci && npm run build
 
